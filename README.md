@@ -12,3 +12,8 @@ Time series analysis of megabank stock, including BAC, JPM, HSBC, RY... in the p
 
 ![2](asset/stock_return_yoy.png)
 
+## Part II - LSTM for Time Series Forecasting
+
+Forecast short-term JPM stock price based on the past 60-day close price.
+
+![3](asset/LSTMforecasting.png)
