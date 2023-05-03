@@ -28,7 +28,7 @@ Applied log transformation and first-order differencing to stationarize the pric
 
 Applied Random Walk with drift as forecasting model, with MAPE of 15.53% 
 
-(left: forecasting on log price, right: converting to original price )
+*left chart: forecasting (log price), right chart: converting to original price*
 
 <img src="asset/RWforecasting.png" title="forecasting on log price" width ="49%" /> <img src="asset/RWforecasting_price.png" title="forecasting" width ="49%" />
 
